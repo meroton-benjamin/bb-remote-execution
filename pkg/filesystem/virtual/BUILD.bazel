@@ -46,6 +46,7 @@ go_library(
         "//pkg/cas",
         "//pkg/filesystem",
         "//pkg/filesystem/access",
+        "//pkg/filesystem/filepool",
         "//pkg/proto/bazeloutputservice",
         "//pkg/proto/bazeloutputservice/rev2",
         "//pkg/proto/outputpathpersistency",

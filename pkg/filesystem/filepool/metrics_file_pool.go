@@ -1,4 +1,4 @@
-package filesystem
+package filepool
 
 import (
 	"sync"
